@@ -8,6 +8,6 @@ Before I wrote software for events, I worked the counter at a boba shop and memo
 
 **Things I like:** databases that enforce their own rules, [the part of a project where it finally works on someone else's phone], [a food you'd travel for].
 
-**Currently:** [what you're learning or building right now].
+**Currently:** Preparing for OAs and Midterms.
 
 Say hi → [ryanchen.xyz](https://ryanchen.xyz) · [LinkedIn](https://www.linkedin.com/in/ryanchen07/) · ryancwork10@gmail.com
