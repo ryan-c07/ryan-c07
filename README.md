@@ -1,22 +1,13 @@
 ## Hi, I'm Ryan 👋
 
-CS student at Stony Brook University (B.S. '29) building full-stack web apps and backend systems. Currently interested in backend infrastructure and database design.
+Brooklyn kid, now a CS student at Stony Brook. Most of what I build starts because something annoyed me or because a friend needed it by Friday.
 
-🔗 [ryanchen.xyz](https://ryanchen.xyz) · [LinkedIn](https://www.linkedin.com/in/ryanchen07/) · ryancwork10@gmail.com
+The voting app on this profile exists because my club was running a bachelor-style show and had no way to count votes without people cheating from three phones. We shipped it two [weeks] later. 219 votes, nobody double-voted, nothing caught fire.
 
-**Open to Summer 2027 SWE internships.**
+Before I wrote software for events, I worked the counter at a boba shop and memorized a few hundred drink combinations. Still think that was harder than most of my CS homework.
 
-### What I'm building
+**Things I like:** databases that enforce their own rules, [the part of a project where it finally works on someone else's phone], [a food you'd travel for].
 
-**[Bao-bae](https://github.com/jas9n/baobae)** — Live audience voting platform for a campus show, built with a friend. Ran a real event with 219 votes across 3 elimination rounds. One vote per person per round is enforced by a Postgres composite unique constraint rather than app logic, and live totals come from polling an aggregate view instead of websockets.
-`Next.js` `React 19` `TypeScript` `Supabase` `PostgreSQL`
+**Currently:** [what you're learning or building right now].
 
-**Pharmacy Rx** — PostgreSQL schema for a NYC pharmacy's prescription refill system, serving both a mobile app and a Twilio SMS bot from one data layer. Models the full refill lifecycle from request to pickup.
-`PostgreSQL` `SQL` `Bash` `Twilio API`
-
-**[Nue-Trivia](https://github.com/ryan-c07)** — Hackathon-winning educational nutrition game for kids, with custom sprites and AI-generated questions.
-`Java` `Swing` `OpenAI API`
-
-### Toolbox
-
-`Java` `Python` `TypeScript` `C` `SQL` `Kotlin` `Swift` · `React` `Next.js` `Node` · `PostgreSQL` `Supabase` `Git` `Vercel`
+Say hi → [ryanchen.xyz](https://ryanchen.xyz) · [LinkedIn](https://www.linkedin.com/in/ryanchen07/) · ryancwork10@gmail.com
